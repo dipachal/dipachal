@@ -1,0 +1,6 @@
+{
+  "name": "দ্বীপাচল এন্টারপ্রাইজ - Dwipachal Enterprise",
+  "description": "দ্বীপাচল এন্টারপ্রাইজ ও ট্যুর বিডি এর ট্যুর বুকিং, টিকিট রিজার্ভেশন, হিসাব-নিকাশ ও গ্রাহক ব্যবস্থাপনা সফটওয়্যার।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
